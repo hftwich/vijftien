@@ -1,0 +1,52 @@
+body{
+    background-color: darkgrey;
+    }
+    ul{
+    list-style-type: none;
+    margin: 500;
+    padding: 100;
+    overflow: hidden;
+    background-color: lightpink;
+    color: pink;
+    }
+    .table{
+    background-color: aliceblue;
+    color: darkgrey;
+    }
+    li {
+    float: left;
+    }
+    li a{
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    }
+    li a:hover{
+    background-color: lightblue;
+    }
+    .header{
+    padding: 15px;
+    text-align: center;
+    background-color: lightblue;
+    color: darkgrey;
+    font-size: 10px;
+    }
+    site-footer{
+    background: lightblue;
+    color: darkgrey;
+    height: 300px;
+    width: 300px;
+    }
+    table{
+    background-color: lightpink;
+    text-align: center;
+    color: grey;
+    }
+    #footer-content {
+    background: lightblue;
+    text-align: center;
+    color: grey;
+    height: 100px;
+    }
